@@ -27,7 +27,7 @@ button {
 }
 
 .livros {
-    color: #00318b;
+    color: #f0f0f0f0;
     margin-left: .6rem;
 }
 
@@ -39,3 +39,28 @@ button {
 .mat-header{
     width: 5rem;
 }
+
+@media screen and (max-width: 768px) {
+    nav {
+      display: flex;
+      position: fixed;
+      z-index: 999;
+      width: 73vw;
+      height: 100%;
+      background: #fff;
+      top: 0;
+      left: -100vw;
+      float: none;
+      transition: .25s ease-in-out;
+    }
+    nav ul {
+      float: none;
+      width: 100%;
+    }
+    nav ul li {
+      display: block;
+    }
+    nav.opened {
+      left: 0;
+    }
+  }
