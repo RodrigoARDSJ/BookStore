@@ -1,6 +1,10 @@
 # BookstoreFront
+Project for learning BootStrap and Angular technologies
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+
+## Technologys i used in this project
+
 
 ## Development server
 
