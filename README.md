@@ -1,5 +1,5 @@
 # BookstoreFront
-Project for learning BootStrap and Angular technologies
+Project for learning Spring Boot and Angular technologies
 
 #
 
@@ -11,7 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Angular
 - Angular Material
 - Java
-- Spring FrameWoks
+- Spring Boot
 
 ## Link website
 https://rodrigoardsj.github.io/bookstore/
